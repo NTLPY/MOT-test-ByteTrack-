@@ -47,8 +47,11 @@ with open("yolox/__init__.py", "r") as f:
     ).group(1)
 
 
-with open("README.md", "r") as f:
+with open("README.md", "rb") as f:
     long_description = f.read()
+
+import sys
+sys.argv.append("develop")
 
 
 setuptools.setup(

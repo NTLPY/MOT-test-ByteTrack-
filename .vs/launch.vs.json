@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "setup.py",
+      "project": "setup.py",
+      "projectTarget": "",
+      "args": [
+        "develop"
+      ]
+    }
+  ]
+}

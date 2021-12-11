@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\exps",
+    "\\exps\\default",
+    "\\exps\\example",
+    "\\exps\\example\\mot",
+    "\\yolox",
+    "\\yolox\\data",
+    "\\yolox\\data\\datasets",
+    "\\yolox\\tracker"
+  ],
+  "SelectedNode": "\\demo_track.py",
+  "PreviewInSolutionExplorer": false
+}
